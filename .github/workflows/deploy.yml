@@ -6,6 +6,6 @@ jobs:
     first_job:
         runs-on: ubutnu-latest
 
-        steprs:
+        steps:
             -name: Hola Mundo
                 run: echo "Hola Mundo"
