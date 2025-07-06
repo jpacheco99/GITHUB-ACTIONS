@@ -8,11 +8,11 @@ jobs:
 
         steps:
             - name: Hola Mundo
-                run: echo "Hola Mundo"
+              run: echo "Hola Mundo"
 
     second_job:
         runs-on: ubuntu-latest
 
         steps:
             - name: Hola Mundo
-                run: echo "Hola Mundo segundo"
+              run: echo "Hola Mundo segundo"
